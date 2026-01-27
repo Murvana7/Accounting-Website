@@ -1,4 +1,4 @@
-# Accounting-Website
+# Claude accounting-Website
 📊 Accounting Website
 
 A clean and professional accounting website for showcasing financial services, company information, and client contact details.
