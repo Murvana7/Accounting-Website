@@ -3,7 +3,7 @@
 
 A clean and professional accounting website for showcasing financial services, company information, and client contact details.
 
-✨Features
+## ✨Features
 
 - Modern, professional design
 
@@ -11,7 +11,7 @@ A clean and professional accounting website for showcasing financial services, c
 
 - Services and contact sections
 
-👷‍♂️Built With
+## 👷‍♂️Built With
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" />
